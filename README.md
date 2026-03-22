@@ -49,7 +49,7 @@ Le TP se décompose en deux fichiers principaux :
 
 * **Langage :** MATLAB
 * **Sujet :** Traitement du signal / Filtrage adaptatif
-* **Contexte :** 3A SIA – ENSEA
+* **Contexte :** 3A SIA - ENSEA
 
 ---
 
@@ -103,4 +103,4 @@ Main files:
 
 * **Language:** MATLAB
 * **Topic:** Adaptive filtering / Signal Processing
-* **Context:** 3rd year engineering project (ENSEA – SIA track)
+* **Context:** 3rd year engineering project (ENSEA - SIA track)
